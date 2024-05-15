@@ -6,6 +6,8 @@ h1 {
 }
 a {
     text-decoration: none;
-    padding: 5px;
-    border: 2px blue;
+    color: black;
+    padding: 8px;
+    border: 2px blue solid;
+    background-color: lightgray;
 }
