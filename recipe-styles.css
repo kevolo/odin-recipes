@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-size: larger;
+}
+a {
+    text-decoration: none;
+    padding: 5px;
+    border: 2px blue;
+}
